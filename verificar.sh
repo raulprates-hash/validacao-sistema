@@ -1,6 +1,6 @@
 #!/bin/bash
 # CONFIGURAÇÃO DOS REQUISITOS MÍNIMOS
-RAM_MINIMA_MB=16384
+RAM_MINIMA_MB=17384
 ESPACO_MINIMO_GB=50
 
 echo "=========================================================="
